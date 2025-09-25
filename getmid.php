@@ -15,8 +15,8 @@ $machine_id =  htmlspecialchars($_GET["machid"]);
 // PDO
 $PDO_Dbtype = "mysql";
 $PDO_Host  = "localhost";
-$PDO_User   = "fivecent";
-$PDO_Password    = "Oaks3118@";
+$PDO_User   = "fivecentz";
+$PDO_Password    = "zxOaks3118@v";
 $PDO_DB      = "optifin";
 $PDO_CharSet = "utf8";
 
